@@ -9,7 +9,9 @@ It adds a number of dissected data fields to Wireshark that can be used for filt
 
 - sfos.stas.*
 - sfos.satc.*
+
 ![Screenshot of Wireshark dissecting SATC packets](docs/wireshark-with-satc.png)
+
 To use this plugin on your Wireshark installation, download the attached lua file and put it into your Wireshark plugin folder.
 
 For Windows users, you should have, or create, a folder at `%APPDATA%\Wireshark\plugins`
